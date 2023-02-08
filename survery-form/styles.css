@@ -1,0 +1,66 @@
+body {
+  background-color: aliceblue;
+  text-align: center;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+fieldset {
+border-top: 10px solid #000000;
+border-right: 10px solid #000;
+border-bottom: 10px solid #000;
+border-left: 10px solid #000;
+text-align: center;
+line-height: 1;
+resize: horizontal;
+overflow: auto;
+min-width: 50px; 
+min-height: 50px;
+border-radius: 100px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+max-width: 500px;
+}
+
+input[type=submit] {
+  background-color: paleTurquoise;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-top: 5px solid #000000;
+border-right: 5px solid #000;
+border-bottom: 5px solid #000;
+border-left: 5px solid #000;
+
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+input, textarea {
+  background-color: aliceblue;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+}
+ textarea {
+    margin: 10px 0 0 0;
+    width: 90%;
+    min-height: 2em;
+    border: 1px solid #000;
+    background-color: #d7ecff ;
+    box-shadow: 5px 5px 10px 1px #000;
+}
+
+  .text {
+    background-color: #bde0ff  ;
+    width: 90%;
+}
