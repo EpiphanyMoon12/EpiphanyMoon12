@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+  <title>Female K-pop Groups</title>
+   <link rel="stylesheet" href="styles.css">
+
+
+</head>
+
+
+<body>
+   <nav id="navbar">
+       <header>Female K-pop Groups</header>
+       <ul>
+           <li><a class="nav-link" href="#TWICE">TWICE</a></li>
+           <li><a class="nav-link" href="#LOONA">LOONA</a></li>
+           <li><a class="nav-link" href="#IVE">IVE</a></li>
+           <li><a class="nav-link" href="#Kep1er">Kep1er</a></li>
+           <li><a class="nav-link" href="#LE_SSERAFIM">LE SSERAFIM</a></li>
+           <li><a class="nav-link" href="#NewJeans">NewJeans</a></li>
+           <li><a class="nav-link" href="#NMIXX">NMIXX</a></li>
+           <li><a class="nav-link" href="#ITZY">ITZY</a></li>
+           <li><a class="nav-link" href="#GFRIEND">GFRIEND</a></li>
+           <li><a class="nav-link" href="#Red_Velvet">Red Velvet</a></li>
+           <li><a class="nav-link" href="#BLACKPINK">BLACKPINK</a></li>
+           <li><a class="nav-link" href="#aespa">aespa</a></li>
+           <li><a class="nav-link" href="#STAYC">STAYC</a></li>
+       </ul>
+   </nav>
+   <main id="main-doc">
+       <section class="main-section" id="TWICE">
+           <header>TWICE</header>
+           <article>
+               <p>Twice (Korean: 트와이스; RR: ; Japanese: トゥワイス, Hepburn: ; commonly stylized as TWICE) is a South Korean girl group formed by JYP Entertainment. The group is composed of nine members: Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu. Twice was formed under the television program  (2015) and debuted on October 20, 2015, with the extended play (EP) .</p>
+                <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/91/1/800/TWICE-10th-Japanese-Single-HARE-HARE-Concept-Photos-documents-1.jpeg?v=192c1">
+           <figcaption id="img-caption">
+TWICE - 10th Japanese Single 'HARE HARE' Concept Photos
+           </figcaption>
+       </figure>
+              
+           </article>
+       </section>
+       <section class="main-section" id="LOONA">
+           <header>LOONA</header>
+           <article>
+               <p>Loona (stylized in all caps or as LOOΠΔ; Korean: 이달의 소녀; RR: Idarui Sonyeo; Japanese: 今月の少女, romanized: Kongetsu no Shōjo, lit. 'Girl of the Month') is a South Korean eleven-member girl group formed by Blockberry Creative. Originally a twelve-member group, they were introduced to the public through a pre-debut project that began in October 2016, where each of the members was revealed in a periodic fashion by releasing a promotional single over the following 18 months.They debuted as a full ensemble with the extended play, [+ +] (2018), supported by the lead single "Favorite" and the title track "Hi High". On November 25, 2022, Chuu was removed from the lineup</p>
+
+
+               <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/e9/4/800/LOONA-Special-Summer-Album-Flip-That-Scans-documents-4.jpeg?v=4cdc0">
+           <figcaption id="img-caption">
+LOONA - Special Summer Album 'Flip That' Album Scans
+           </figcaption>
+       </figure>
+           </article>
+       </section>
+       <section class="main-section" id="IVE">
+           <header>IVE</header>
+            <article>
+                <p>Ive (Korean: 아이브; RR: Aibeu; stylized as IVE) is a South Korean girl group formed by Starship Entertainment. The group is composed of six members: Gaeul, Yujin, Rei, Wonyoung, Liz and Leeseo. They made their debut on December 1, 2021, with the single album Eleven. Ive rose to greater prominence with their 2022 single "Love Dive", which charted at number one on the Circle Digital Chart, became the best-performing single of the year, and won Song of the Year at the Asia Artist Awards, Golden Disc Awards, MAMA Awards, and Melon Music Awards.      </p>      
+           </article>
+           <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/f1/4/800/SCANS-IVE-first-single-album-Eleven-documents-1.jpeg?v=00289">
+           <figcaption id="img-caption">
+IVE first single album 'Eleven' Album Scans
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="Kep1er">
+           <header>Kep1er</header>
+           <article>
+               <p>Kep1er (/ˈkɛplər/; Korean: 케플러; RR: Kepeulleo) is a South Korean girl group formed through the Mnet reality survival competition show Girls Planet 999 in 2021 and managed by Swing Entertainment and Wake One Entertainment. The group is composed of nine members: Kim Chae-hyun, Huening Bahiyyih, Choi Yu-jin, Kim Da-yeon, Seo Young-eun, Kang Ye-seo, Hikaru Ezaki, Mashiro Sakamoto, and Shen Xiaoting. They made their official debut on January 3, 2022, with the extended play (EP) First Impact. </p>
+           </article>
+            <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/c3/4/800/230505-WAKEONE-Naver-Post-Kep1er-Exchange-Roommate-Behind-documents-1.jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+WAKEONE Naver Post - Kep1er 'Exchange Roommate' Behind The Scenes
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="LE_SSERAFIM">
+           <header>LE SSERAFIM</header>
+           <article>
+               <p>Le Sserafim (/lə ˈsɛrəfɪm/ luh SERR-uh-fim;[3] Korean: 르세라핌; RR: Reuserapim; MR: Rŭserap'im; stylized in all caps) is a South Korean girl group formed by Source Music. The group consists of five members: Sakura, Kim Chae-won, Huh Yun-jin, Kazuha, and Hong Eun-chae. Originally a six-member group, Kim Ga-ram left the group on July 20, 2022, after the termination of her exclusive contract. Le Sserafim debuted on May 2, 2022, with the release of their first extended play, Fearless.</p>
+           </article>
+       </section>
+        <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/a8/0/800/221206-LE-SSERAFIM-Weverse-2023-SEASON-S-GREETINGS-Behind-Cuts-documents-1.jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+221206 LE SSERAFIM Weverse - 2023 SEASON'S GREETINGS Behind Cuts
+           </figcaption>
+       </figure>
+       <section class="main-section" id="NewJeans">
+           <header>NewJeans</header>
+           <article>
+               <p>NewJeans (Korean: 뉴진스; RR: Nyujinseu) is a South Korean girl group formed by ADOR. The group is composed of five members: Minji, Hanni, Danielle, Haerin, and Hyein. They debuted in July 2022 with the single "Attention", followed shortly afterwards by two other singles, "Hype Boy" and "Cookie". The singles were all featured on their eponymous debut extended play, released in August 2022. In 2023, they released their first single album OMG to commercial success. It was accompanied by two singles, "Ditto" and "OMG". </p>
+           </article>
+       </section>
+        <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/17/4/800/NewJeans-OMG-Concept-Teasers-documents-2.jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+NewJeans 'OMG' Concept Teasers
+           </figcaption>
+       </figure>
+       <section class="main-section" id="NMIXX">
+           <header>NMIXX</header>
+           <article>
+               <p>Nmixx (Korean: 엔믹스; RR: Enmikseu; MR: Enmiksŭ; stylized in all caps; formerly known as JYPn) is a South Korean girl group formed by SQU4D, a sub-label of JYP Entertainment. The group is composed of six members: Lily, Haewon, Sullyoon, Bae, Jiwoo, and Kyujin. They debuted on February 22, 2022, with the single album Ad Mare. Originally a septet, Jinni departed from the lineup on December 9, 2022 for personal reasons. </p>
+           </article>
+            <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/02/0/800/NMIXX-1st-EP-expergo-Concept-Teasers-documents-1(3).jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+NMIXX 1st EP expérgo Concept Teasers
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="ITZY">
+           <header>ITZY</header>
+           <article>
+               <p>Itzy (stylized in all caps; Korean: 있지; RR: Itji; MR: Itchi) is a South Korean girl group formed by JYP Entertainment and consisting of members Yeji, Lia, Ryujin, Chaeryeong, and Yuna. They debuted on February 12, 2019, with the release of their single album It'z Different. Their accolades include Rookie of the Year at the 34th Golden Disc Awards, New Artist of the Year at the 9th Gaon Chart Music Awards and 2019 Melon Music Awards, Best New Female Artist at the 2019 Mnet Asian Music Awards, and the New Artist Award at the 29th Seoul Music Awards; they are the first K-pop girl group to achieve such a "Rookie Grand Slam".</p>
+           </article>
+           <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/dd/4/800/ITZY-OFFICIAL-FANCLUB-MIDZY-2ND-GENERATION-documents-1(2).jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+ITZY OFFICIAL FANCLUB MIDZY 2ND GENERATION
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="GFRIEND">
+           <header>GFRIEND</header>
+           <article>
+               <p>GFriend (stylized in all caps; Korean: 여자친구; RR: ) was a South Korean girl group formed by Source Music in 2015. The group consisted of six members: Sowon, Yerin, Eunha, Yuju, SinB, and Umji. They debuted with the extended play (EP)  on January 15, 2015 and won several female rookie awards, garnering momentum early on despite being from a small company.<p>
+           </article>
+           <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/78/0/800/210325-Source-Naver-Post-GFRIEND-CHOICE-The-2nd-Photobook-Behind-documents-1.jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+210325 Source Naver Post - GFRIEND - CHOICE The 2nd Photobook Behind
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="Red_Velvet">
+           <header>Red Velvet</header>
+           <article>
+               <p>Red Velvet (Korean: 레드벨벳; RR: Redeubelbet) is a South Korean girl group formed and managed by SM Entertainment. They originally debuted on August 1, 2014, with the single "Happiness" with the four-member line-up of Irene, Seulgi, Wendy and Joy. A fifth member, Yeri, joined in March 2015, following the release of their first extended play, Ice Cream Cake. Sonically, the music of Red Velvet reflects their group name: their predominantly-pop "red" side experiments occasionally with electronic and funk, while their "velvet" side focuses on '90s-influenced R&B with elements of ballad and hip hop. Their genre versatility and catchy hooks have garnered critical praise.</p>
+           </article>
+           <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/9f/4/800/Red-Velvet-2022-Season-s-Greetings-Scans-documents-1.jpeg?v=f4ace">
+           <figcaption id="img-caption">
+Red Velvet 2022 Season's Greetings (Scans)
+           </figcaption>
+       </figure>
+       </section>
+       <section class="main-section" id="BLACKPINK">
+           <header>BLACKPINK</header>
+<article>
+   <p>Blackpink (Korean: 블랙핑크; RR: Beullaekpingkeu, stylized in all caps or as BLɅϽKPIИK) is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa. The group debuted in August 2016 with their single album Square One, which featured "Whistle" and "Boombayah", their first number-one entries on South Korea's Gaon Digital Chart and the US Billboard World Digital Song Sales chart, respectively.</p>
+           </article>
+           </section>
+            <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/68/5/800/BLACKPINK-Born-Pink-Album-Scans-documents-1.jpeg?v=19f57">
+           <figcaption id="img-caption">
+BLACKPINK 'Born Pink' Album Photo Scans
+           </figcaption>
+       </figure>
+       <section class="main-section" id="aespa">
+           <header>aespa</header>
+<article>
+   <p>Aespa (/ˈɛsˌpɑː/ ; Korean: 에스파; RR: ; MR: , commonly stylized in all lowercase or æspa) is a South Korean girl group formed by SM Entertainment. The group consists of four members: Karina, Giselle, Winter, and Ningning. Known for popularizing the metaverse concept and hyperpop music in K-pop, Aespa are recognized as one of the most successful South Korean girl groups both domestically and internationally.</p>
+           </article>
+           <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/22/5/800/aespa-Girls-Press-Promotion-Photos-documents-2.jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+aespa 'Girls' Press Promotion Photos
+           </figcaption>
+       </figure>
+                       </section>
+<section class="main-section" id="STAYC">
+           <header>STAYC</header>
+<article>
+   <p>STAYC (/ˈsteɪsi/; Korean: 스테이씨; RR: , acronym for Star to a Young Culture) is a South Korean girl group formed by High Up Entertainment. The group is composed of six members: Sumin, Sieun, Isa, Seeun, Yoon, and J. They debuted on November 12, 2020, with the release of their debut single album .</p>
+           </article>
+            <figure id="img-div">
+           <img id="image" src="https://kpopping.com/documents/d7/1/800/STAYC-The-4th-Single-Album-TEDDY-BEAR-Concept-Teasers-documents-3(1).jpeg?v=5cfcf">
+           <figcaption id="img-caption">
+STAYC - The 4th Single Album 'TEDDY BEAR' Concept Teasers
+           </figcaption>
+       </figure>
+                       </section>
+
+
+
+
+   </main>
+
+
+
+
+   <div id="9adb4968-1f3d-4d07-8148-bd0e22ac2fca" style="display: block !important; z-index: 2147483647 !important;"></div>
+</body>
+
+
+</html>
